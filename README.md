@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm [Your Name]</h1>
+<h1 align="center">Hi , I'm Jayasurya </h1>
 <h3 align="center">
 Full Stack Web Developer | Passionate Problem Solver | Building
 Modern Web Experiences
@@ -34,19 +34,19 @@ useful applications.**
 ## Connect With Me
 
 <p align="left">
-<a href="[LinkedIn URL]">
+<a href="https://www.linkedin.com/in/jaya-suriya-944685298/">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-
 the-badge&logo=linkedin"/>
 
 </a>
-<a href="[Portfolio URL]">
+<a href="https://ashbron.netlify.app/">
 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-
 the-badge&logo=vercel"/>
 
 </a>
-<a href="mailto:[Email Address]">
+<a href="mailto:jayasuriya57079@gmail.com">
 
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-
 badge&logo=gmail"/>
@@ -65,35 +65,6 @@ tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
 
 ---
 
-# Featured Projects
-## Portfolio Website
-Modern personal portfolio showcasing projects, skills, and
-experience.
-
-**Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-Live Demo: [Portfolio URL]
-Repository: [GitHub Repository]
-
----
-
-## E-Commerce Website
-A responsive online shopping platform with authentication and cart
-functionality.
-**Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
-
----
-
-## Task Management App
-A productivity application to organize daily tasks with
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-Live Demo: [Project URL]
-Repository: [GitHub Repository]
 
 ---
 
@@ -105,7 +76,7 @@ username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
 er=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/
 top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
+username=Suriya14316&layout=compact&theme=tokyonight&hide_borde
 r=true"/>
 </p>
 
@@ -114,7 +85,7 @@ r=true"/>
 # GitHub Streak
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+user=Suriya14316&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -122,7 +93,7 @@ user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
 # Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
+username=Suriya14316&theme=tokyo-night"/>
 </p>
 
 ---
@@ -132,7 +103,7 @@ username=[GitHubUsername]&theme=tokyo-night"/>
 
 <img src="https://github-profile-trophy.vercel.app/?
 
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&margin-
+username=Suriya14316&theme=tokyonight&no-frame=true&margin-
 w=10"/>
 
 </p>
@@ -176,7 +147,7 @@ Cory House
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
+username=Suriya14316&label=Profile+Views&color=0e75b6&style=fla
 t"/>
 </p>
 
